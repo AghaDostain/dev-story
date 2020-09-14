@@ -4,7 +4,7 @@ _Software Engineer based in Lahore, Pakistan 🇵🇰_ <br>
 [Email](mailto:agha.muhammad.iqbal@gmail.com) / [LinkedIn](https://www.linkedin.com/in/muhammadiqbaldotnet) / [GitHub](https://github.com/aghadostain/) / [Stackoverflow](https://stackoverflow.com/users/5985558/jbs) / [Twitter](https://twitter.com/agha_dostain/) 
 
 ## Professional Experience
-
+---
 **Senior Software Engineer** @ [Datum Square](https://www.datumsquare.com/) / [Allshore Staffing](https://allshorevirtualstaffing.com) _(March 2020 - Present)_ <br>
 Providing engineering services to different clients.
   - Working in a cross-functional, agile team, and strictly followed *CST time zone.*
