@@ -142,7 +142,7 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 [EVS](https://www.evslearning.com) - Lahore, Punjab, Pakistan _(2015 - 2016)_ <br>
 
 **Development course** focused on full-stack development<br>
-[Pluralsight](https://www.pluralsight.com/) - elearning<br>
+[Pluralsight](https://www.pluralsight.com/) - eLearning<br>
 
 <script type="text/javascript">window.addEventListener("load", function(){document.getElementsByTagName("footer")[0].remove();document.getElementsByClassName("view")[0].remove();})</script>
 
