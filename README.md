@@ -55,7 +55,7 @@ _This section includes technologies used in different projects during my profess
   - JS ES2015 to latest
   - SQL
 
-**Techniques & Frameworks:**
+**Techniques & Frameworks**
   - Azure Queue, Azure Storage, Azure Web Apps, Azure Functions, Application Insight.
   - DOT NET CORE, ASP.NET MVC Core, ASP.NET Web API Core, ASP.NET Web API, ASP.NET MVC, ASP.NET Web Form.
   - Entity Framework CORE, Entity Framework, ADO.NET, LINQ, Swagger, Fluent Validation, Auto Mapper, Repository/Service  - pattern, DI, MOQ.
@@ -131,7 +131,7 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 ## Languages
 ---
 **English**: Fluent <br>
-**Urdu** (اردو): Native
+**Urdu** *(اردو)*: Native
 <br><br>
 
 ## Education
