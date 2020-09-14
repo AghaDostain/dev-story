@@ -7,11 +7,11 @@ _Software Engineer based in Lahore, Pakistan_ <br>
 
 **Senior Software Engineer** @ [Datum Square](https://www.datumsquare.com/) / [Allshore Staffing](https://allshorevirtualstaffing.com) _(March 2020 - Present)_ <br>
 Provided engineering services to different clients projects.
-    - Worked in a cross-functional, agile team, and strictly followed *CTD time zone*.
-    - Add features and manage change requests.
-    - Conducted and participated in code review session.
-    - Participated in requirement elicitation and maturity process.
-    - **_Technologies used:_** ASP.NET WEB API, ASP.NET Web Forms, jQuery, jQuery based plugins, Bootstrap, MSSQL, GIT.
+  - Worked in a cross-functional, agile team, and strictly followed *CTD time zone.*
+  - Add features and manage change requests.
+  - Conducted and participated in code review session.
+  - Participated in requirement elicitation and maturity process.
+  - **_Technologies used:_** ASP.NET WEB API, ASP.NET Web Forms, jQuery, jQuery based plugins, Bootstrap, MSSQL, GIT.
 <br><br>
 
 **Full Stack Software Engineer** @ [East West Solutions](https://ewsystemsinc.com/) / [PieCyfer](https://www.piecyfer.com/) _(Jan 2019 - Feb 2020)_ <br>
