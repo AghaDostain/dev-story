@@ -72,8 +72,8 @@ _This section include technologies used for different projects done in professio
   - Git, TFS, SVN.
   - JIRA, VS Online.
 <br><br>
-<!-- 
-## 📌 On The Side
+
+<!--## 📌 On The Side
 
 **Web Development Instructor** @ [ReDI School of Digital Integration](https://www.redi-school.org/) _(Aug 2017 - Present)_<br>
 Non-profit digital school for tech-interested newcomers applying for asylum in Germany.
