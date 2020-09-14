@@ -1,3 +1,23 @@
+# Name of website
 theme: jekyll-theme-minimal
+
+# Your name to show in the footer
+author: Muhammad Iqbal
+
 title: Dev Story✒️
 description: Muhammad Iqbal CV
+
+# Select the social network links that you want to show in the footer.
+# Uncomment the links you want to show and add your information to each one.
+social-network-links:
+  email: "agha.muhammad.iqbal@gmail.com"
+  facebook: deanattali
+  github: aghadostain
+  twitter: agha.dostain
+  
+  
+# Select which social network share links to show in posts
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
