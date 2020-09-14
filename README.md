@@ -130,8 +130,8 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 
 ## Languages
 ---
-**English**: Fluent <br>
-**Urdu** *(اردو)*: Native
+**English** - Fluent <br>
+**Urdu** *(اردو)* - Native
 <br><br>
 
 ## Education
