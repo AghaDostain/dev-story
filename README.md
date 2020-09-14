@@ -48,30 +48,29 @@ Provided engineering services to different clients projects.
 <br><br>
     
 ## Tools & Techniques
-
 _This section include technologies used for different projects done in professional career._
-<br><br>
+<br>
 
-**Programming Languages** <br>
-    - C# 4 to latest
-    - SQL
-    - JS ES3 to latest
+**Programming Languages**
+  - C# 4 to latest
+  - SQL
+  - JS ES3 to latest
 <br><br>
 
 **Techniques & Frameworks:** <br>
-    - Azure Queue, Azure Storage, Azure Web Apps, Azure Functions, Application Insight.
-    - DOT NET CORE, ASP.NET MVC Core, ASP.NET Web API Core, ASP.NET Web API, ASP.NET MVC, ASP.NET Web Form.
-    - Entity Framework CORE, Entity Framework, ADO.NET, LINQ, Swagger, Fluent Validation, Auto Mapper, Repository/Service Pattern, DI, MOQ.
-    - N-Tier Architectures, ONION Architecture.
-    - Strategy Design Pattern, SOLID Principles.  
-    - Angular, Angular JS, Gulp, Bower, Express.js, Jasmine, Node.js. 
-    - Kendo UI, jQuery, jQuery-UI, jQuery based plugins, AJAX.
-    - MSSQL, MONGO DB.
+  - Azure Queue, Azure Storage, Azure Web Apps, Azure Functions, Application Insight.
+  - DOT NET CORE, ASP.NET MVC Core, ASP.NET Web API Core, ASP.NET Web API, ASP.NET MVC, ASP.NET Web Form.
+  - Entity Framework CORE, Entity Framework, ADO.NET, LINQ, Swagger, Fluent Validation, Auto Mapper, Repository/Service  - pattern, DI, MOQ.
+  - N-Tier Architectures, ONION Architecture.
+  - Strategy Design Pattern, SOLID Principles.  
+  - Angular, Angular JS, Gulp, Bower, Express.js, Jasmine, Node.js. 
+  - Kendo UI, jQuery, jQuery-UI, jQuery based plugins, AJAX.
+  - MSSQL, MONGO DB.
 **Development Tools**
-    - Visual Studio, MS Visio, MS SQL SERVER, MS Azure Storage Simulator, Visual Studio Code. 
-    - ReSharper, Postman, Robomongo, ARGO UML, Visual Paradigm, FileZilla.
-    - Git, TFS, SVN.
-    - JIRA, VS Online.
+  - Visual Studio, MS Visio, MS SQL SERVER, MS Azure Storage Simulator, Visual Studio Code. 
+  - ReSharper, Postman, Robomongo, ARGO UML, Visual Paradigm, FileZilla.
+  - Git, TFS, SVN.
+  - JIRA, VS Online.
 <br><br>
 <!-- 
 ## 📌 On The Side
