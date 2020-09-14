@@ -28,13 +28,12 @@ A workforce management solution deployed over 20+ USA commercial airports.
 <br><br>
 
 **Software Engineer** @ [Xelleration / Speridian](https://www.speridian.com) _(Aug 2017 - Dec 2018)_ <br>
-Provided development services to multiple Wedgewood products.
+Provided development services to multiple [Wedgewood](https://www.wedgewood-inc.com/) products.
   - Best utilizing .NET Identity Framework, EF, LINQ and DBO.
   - Worked in ONION Architecture with Angular, MVVM Framework for SPA.
-  - Following SCRUM practices.
+  - Following scrum practices and utilized CI/CD with Azure.
   - Manage API Deployment and Azure resources.
-  - Utilized CI/CD with Azure.
-  - Wrote Unit test and compliance with GDPR.
+  - Wrote unit test cases and compliances application with GDPR.
   - **_Technologies used:_** ASP.NET WEB API, ASP.NET MVC, Identity, Clean Architecture, Azure Resources (Queue, Storage, Web Apps, Functions), Angular JS, Kendo UI, Bootstrap, MOQ, MSSQL TFS.
 <br><br>
 
@@ -70,10 +69,10 @@ _This section include technologies used for different projects done in professio
   - Visual Studio, MS Visio, MS SQL SERVER, MS Azure Storage Simulator, Visual Studio Code. 
   - ReSharper, Postman, Robomongo, ARGO UML, Visual Paradigm, FileZilla.
   - Git, TFS, SVN.
-  - JIRA, VS Online.
+  - JIRA, Visual Studio Online.
 <br><br>
 
-<!--## 📌 On The Side
+<!--## On The Side
 
 **Web Development Instructor** @ [ReDI School of Digital Integration](https://www.redi-school.org/) _(Aug 2017 - Present)_<br>
 Non-profit digital school for tech-interested newcomers applying for asylum in Germany.
@@ -84,10 +83,10 @@ Non-profit digital school for tech-interested newcomers applying for asylum in G
   <br><br>
 
 **Co-Organizer** @ [QueerJS](https://queerjs.com/) _(Jun 2019 - Present)_<br>
-🏳️‍🌈 A meetup for everyone where queer speakers take the stage.
+ A meetup for everyone where queer speakers take the stage.
   - Selecting speakers and scheduling events
   - Fostering an inclusive community and enforcing the code of conduct
-  - 🐻 _Previously co-organized [BerlinJS](https://berlinjs.org/) from May 2018 - May 2020_
+  - _Previously co-organized [BerlinJS](https://berlinjs.org/) from May 2018 - May 2020_
   <br><br>
   
 **Workshop Lead** @ [New Devs on the Block](https://newdevs.org/) _(Jul 2019 - Present)_ <br>
@@ -97,7 +96,7 @@ Free, two-day workshops to help people build their first website.
   - Events in Nürnberg and Vienna, now post-poned due to the COVID-19 outbreak 
   <br><br>
 
-## 🎤 Public Speaking
+## Public Speaking
 
 ### Upcoming Events
  
@@ -114,10 +113,10 @@ Free, two-day workshops to help people build their first website.
 <br>
 
 **Want me to speak at your event?**
-<br>💖 [Check out my website](https://workwithcarolyn.com/speaking) for more information.
+<br> [Check out my website](https://workwithcarolyn.com/speaking) for more information.
 <br><br>
   
-## 🏆 Accomplishments
+## Accomplishments
 
 **Top Author Recognition** @ [DEV](https://dev.to/) _(2019 - 2020)_ <br>
 Named one of the Top 500 authors in 2019. Also wrote two articles that ranked in the weekly Top 7:
@@ -129,13 +128,13 @@ Named one of the Top 500 authors in 2019. Also wrote two articles that ranked in
 Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report and retrieve lost & found objects for travelers abroad.
 <br><br> -->
 
-## 💬 Languages
+## Languages
 
 **English**: Fluent <br>
 **Urdu**: Native
 <br><br>
 
-## 👩🏼‍🎓 Education
+## Education
 
 **Bachelor of Science** in Software Engineering<br>
 [UMT](https://www.umt.edu.pk) - Lahore, Punjab, Pakistan _(2011 - 2016)_ <br>
