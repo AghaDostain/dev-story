@@ -1,7 +1,7 @@
 # Muhammad Iqbal
 _Software Engineer based in Lahore, Pakistan 🇵🇰_ <br>
 
-[:e-mail:](mailto:agha.muhammad.iqbal@gmail.com, eMail) / [LinkedIn](https://www.linkedin.com/in/muhammadiqbaldotnet) / [GitHub](https://github.com/aghadostain/) / [Stackoverflow](https://stackoverflow.com/users/5985558/jbs) / [Twitter](https://twitter.com/agha_dostain/) 
+[Mail](mailto:agha.muhammad.iqbal@gmail.com) / [LinkedIn](https://www.linkedin.com/in/muhammadiqbaldotnet) / [GitHub](https://github.com/aghadostain/) / [Stackoverflow](https://stackoverflow.com/users/5985558/jbs) / [Twitter](https://twitter.com/agha_dostain/) 
 
 ## Professional Experience
 ---
