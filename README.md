@@ -1,11 +1,11 @@
 # Muhammad Iqbal
 _Software Engineer based in Lahore, Pakistan_ <br>
 
-[Email](mailto:agha.muhammad.iqbal@gmail.com) / [LinkedIn](https://www.linkedin.com/in/muhammadiqbaldotnet) / [GitHub](https://github.com/aghadostain/) / [Twitter](https://twitter.com/agha_dostain/)
+[Email](mailto:agha.muhammad.iqbal@gmail.com) / [LinkedIn](https://www.linkedin.com/in/muhammadiqbaldotnet) / [GitHub](https://github.com/aghadostain/) / [Stackoverflow](https://stackoverflow.com/users/5985558/jbs) / [Twitter](https://twitter.com/agha_dostain/) 
 
 ## Professional Experience
 
-**Senior Software Engineer** @ [Datum Square / Allshore Staffing](https://allshorevirtualstaffing.com) _(March 2020 - Present)_ <br>
+**Senior Software Engineer** @ [Datum Square](https://www.datumsquare.com/) / [Allshore Staffing](https://allshorevirtualstaffing.com) _(March 2020 - Present)_ <br>
 Provided engineering services to different clients projects.
     - Worked in a cross-functional, agile team, and strictly followed *CTD time zone*.
     - Add features and manage change requests.
@@ -14,7 +14,7 @@ Provided engineering services to different clients projects.
     - **_Technologies used:_** ASP.NET WEB API, ASP.NET Web Forms, jQuery, jQuery based plugins, Bootstrap, MSSQL, GIT.
 <br><br>
 
-**Full Stack Software Engineer** @ [East West Solutions / PieCyfer](https://ewsystemsinc.com/) _(Jan 2019 - Feb 2020)_ <br>
+**Full Stack Software Engineer** @ [East West Solutions](https://ewsystemsinc.com/) / [PieCyfer](https://www.piecyfer.com/) _(Jan 2019 - Feb 2020)_ <br>
 A workforce management solution deployed over 20+ USA commercial airports.
     - Worked in a cross-functional, agile team, who were spread in different offices and time zone.
     - Added features and cleared backlogs.
@@ -132,8 +132,8 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 
 ## 💬 Languages
 
-**English**: Native <br>
-**German**: A2.2
+**English**: Fluent <br>
+**Urdu**: Native
 <br><br>
 
 ## 👩🏼‍🎓 Education
@@ -141,8 +141,8 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 **Bachelor of Science** in Software Engineering<br>
 [UMT](https://www.umt.edu.pk) - Lahore, Punjab, Pakistan _(2011 - 2016)_ <br>
 
-**Dot Net Specialist** in MSFT Web Technologies<br>
-[EVS](https://www.evs.pk) - Lahore, Punjab, Pakistan _(2015 - 2016)_ <br>
+**Dot Net Specialist** focused on MSFT Web Technologies<br>
+[EVS](https://www.evslearning.com) - Lahore, Punjab, Pakistan _(2015 - 2016)_ <br>
 
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
+**Development course** focused on full-stack development<br>
+[Pluralsight](https://www.pluralsight.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
