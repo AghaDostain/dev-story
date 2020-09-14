@@ -23,7 +23,7 @@ A workforce management solution deployed over 20+ USA commercial airports.
   - Developed understanding of different complex business routines.
       - Multi tenet web app with over *8+ different personas*.
       - *100+ web pages* and multiple reports.
-      - *2K+ DBO* having *1.4K+ SPROCS*, *50+ Tables*, functions, views, agents, types.        
+      - *2K+ DBO* having *1.4K+ SPROCS*, *50+ Tables* and numerous functions, views, jobs, types.        
   - **_Technologies used:_** ASP.NET WEB FORMS, WCF, jQuery, Bootstrap, SSRS, MSSQL, GIT.
 <br><br>
 
