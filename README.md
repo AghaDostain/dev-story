@@ -52,11 +52,10 @@ _This section include technologies used for different projects done in professio
 
 **Programming Languages**
   - C# 4 to latest
-  - SQL
   - JS ES3 to latest
-<br><br>
+  - SQL
 
-**Techniques & Frameworks:** <br>
+**Techniques & Frameworks:**
   - Azure Queue, Azure Storage, Azure Web Apps, Azure Functions, Application Insight.
   - DOT NET CORE, ASP.NET MVC Core, ASP.NET Web API Core, ASP.NET Web API, ASP.NET MVC, ASP.NET Web Form.
   - Entity Framework CORE, Entity Framework, ADO.NET, LINQ, Swagger, Fluent Validation, Auto Mapper, Repository/Service  - pattern, DI, MOQ.
@@ -65,6 +64,7 @@ _This section include technologies used for different projects done in professio
   - Angular, Angular JS, Gulp, Bower, Express.js, Jasmine, Node.js. 
   - Kendo UI, jQuery, jQuery-UI, jQuery based plugins, AJAX.
   - MSSQL, MONGO DB.
+
 **Development Tools**
   - Visual Studio, MS Visio, MS SQL SERVER, MS Azure Storage Simulator, Visual Studio Code. 
   - ReSharper, Postman, Robomongo, ARGO UML, Visual Paradigm, FileZilla.
