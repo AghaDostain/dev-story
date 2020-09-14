@@ -1,7 +1,7 @@
 # Muhammad Iqbal
 _Software Engineer based in Lahore, Pakistan 🇵🇰_ <br>
 
-[Email](mailto:agha.muhammad.iqbal@gmail.com) / [LinkedIn](https://www.linkedin.com/in/muhammadiqbaldotnet) / [GitHub](https://github.com/aghadostain/) / [Stackoverflow](https://stackoverflow.com/users/5985558/jbs) / [Twitter](https://twitter.com/agha_dostain/) 
+[:e-mail:](mailto:agha.muhammad.iqbal@gmail.com) / [LinkedIn](https://www.linkedin.com/in/muhammadiqbaldotnet) / [GitHub](https://github.com/aghadostain/) / [Stackoverflow](https://stackoverflow.com/users/5985558/jbs) / [Twitter](https://twitter.com/agha_dostain/) 
 
 ## Professional Experience
 ---
@@ -46,6 +46,7 @@ Provided engineering services to different clients projects.
 <br><br>
     
 ## Tools & Techniques
+---
 _This section include technologies used in different projects during professional career._
 <br>
 
@@ -128,13 +129,13 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 <br><br> -->
 
 ## Languages
-
+---
 **English**: Fluent <br>
 **Urdu**: Native
 <br><br>
 
 ## Education
-
+---
 **Bachelor of Science** in Software Engineering<br>
 [UMT](https://www.umt.edu.pk) - Lahore, Punjab, Pakistan _(2011 - 2016)_ <br>
 
