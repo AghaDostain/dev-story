@@ -7,7 +7,7 @@ _Software Engineer based in Lahore, Pakistan_ <br>
 
 **Senior Software Engineer** @ [Datum Square](https://www.datumsquare.com/) / [Allshore Staffing](https://allshorevirtualstaffing.com) _(March 2020 - Present)_ <br>
 Provided engineering services to different clients projects.
-  - Worked in a cross-functional, agile team, and strictly followed *CTD time zone.*
+  - Worked in a cross-functional, agile team, and strictly followed *CST time zone.*
   - Add features and manage change requests.
   - Conducted and participated in code review session.
   - Participated in requirement elicitation and maturity process.
@@ -16,36 +16,36 @@ Provided engineering services to different clients projects.
 
 **Full Stack Software Engineer** @ [East West Solutions](https://ewsystemsinc.com/) / [PieCyfer](https://www.piecyfer.com/) _(Jan 2019 - Feb 2020)_ <br>
 A workforce management solution deployed over 20+ USA commercial airports.
-    - Worked in a cross-functional, agile team, who were spread in different offices and time zone.
-    - Added features and cleared backlogs.
-    - Actively followed in-house coding standards and best practices.
-    - Maintained a company-wide design system.
-    - Developed understanding of different complex business routines.
-        - Multi tenet web app with over *8+ different personas*.
-        - *100+ web pages* and multiple reports.
-        - *2K+ DBO* having *1.4K+ SPROCS*, *50+ Tables*, functions, views, agents, types.        
-    - **_Technologies used:_** ASP.NET WEB FORMS, WCF, jQuery, Bootstrap, SSRS, MSSQL, GIT.
-    <br><br>
+  - Worked in a cross-functional, agile team, who were spread in different offices and time zone.
+  - Added features and cleared backlogs.
+  - Actively followed in-house coding standards and best practices.
+  - Maintained a company-wide design system.
+  - Developed understanding of different complex business routines.
+      - Multi tenet web app with over *8+ different personas*.
+      - *100+ web pages* and multiple reports.
+      - *2K+ DBO* having *1.4K+ SPROCS*, *50+ Tables*, functions, views, agents, types.        
+  - **_Technologies used:_** ASP.NET WEB FORMS, WCF, jQuery, Bootstrap, SSRS, MSSQL, GIT.
+<br><br>
 
 **Software Engineer** @ [Xelleration / Speridian](https://www.speridian.com) _(Aug 2017 - Dec 2018)_ <br>
 Provided development services to multiple Wedgewood products.
-    - Best utilizing .NET Identity Framework, EF, LINQ and DBO.
-    - Worked in ONION Architecture with Angular, MVVM Framework for SPA.
-    - Following SCRUM practices.
-    - Manage API Deployment and Azure resources.
-    - Utilized CI/CD with Azure.
-    - Wrote Unit test and compliance with GDPR.
-    - **_Technologies used:_** ASP.NET WEB API, ASP.NET MVC, Identity, Clean Architecture, Azure Resources (Queue, Storage, Web Apps, Functions), Angular JS, Kendo UI, Bootstrap, MOQ, MSSQL TFS.
-  <br><br>
+  - Best utilizing .NET Identity Framework, EF, LINQ and DBO.
+  - Worked in ONION Architecture with Angular, MVVM Framework for SPA.
+  - Following SCRUM practices.
+  - Manage API Deployment and Azure resources.
+  - Utilized CI/CD with Azure.
+  - Wrote Unit test and compliance with GDPR.
+  - **_Technologies used:_** ASP.NET WEB API, ASP.NET MVC, Identity, Clean Architecture, Azure Resources (Queue, Storage, Web Apps, Functions), Angular JS, Kendo UI, Bootstrap, MOQ, MSSQL TFS.
+<br><br>
 
 **Software Engineer** @ [IQVIS](https://www.iqvis.com/) _(May 2016 - Aug 2017)_ <br>
 Provided engineering services to different clients projects.
-    - Wrote optimize and generic code and produced robust application.
-    - Code compliance with MSFT standard and best practices.
-    - Minimized HTTP and DB requests for better performance.
-    - Handled change request's and performed impact analysis.
-    - **_Technologies used:_** ODATA WEB API, ASP.NET MVC, ASP.NET Web Forms, jQuery, jQuery plugins, Bootstrap, MSSQL, GIT.
-    <br><br>
+  - Wrote optimize and generic code and produced robust application.
+  - Code compliance with MSFT standard and best practices.
+  - Minimized HTTP and DB requests for better performance.
+  - Handled change request's and performed impact analysis.
+  - **_Technologies used:_** ODATA WEB API, ASP.NET MVC, ASP.NET Web Forms, jQuery, jQuery plugins, Bootstrap, MSSQL, GIT
+<br><br>
     
 ## Tools & Techniques
 
