@@ -144,5 +144,5 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 **Development course** focused on full-stack development<br>
 [Pluralsight](https://www.pluralsight.com/) - eLearning<br>
 
-<script type="text/javascript">window.addEventListener("load", function(){document.getElementsByTagName("footer")[0].remove();document.getElementsByClassName("view")[0].remove();})</script>
+<script type="text/javascript">window.onload = function(){document.getElementsByTagName("footer")[0].remove();document.getElementsByClassName("view")[0].remove();}</script>
 
