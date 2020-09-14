@@ -11,13 +11,12 @@ description: Muhammad Iqbal CV
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "agha.muhammad.iqbal@gmail.com"
-  facebook: deanattali
   github: aghadostain
-  twitter: agha.dostain
-  
+  twitter: agha_dostain
+  linkedin: muhammadiqbaldotnet
   
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
   linkedin: true
+  github: true
