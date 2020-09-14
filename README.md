@@ -148,5 +148,4 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 
 
 
-<script type="text/javascript">window.onload = function(){document.getElementsByTagName("footer")[0].remove();document.getElementsByClassName("view")[0].remove();}</script>
 
