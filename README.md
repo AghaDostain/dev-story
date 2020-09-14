@@ -144,7 +144,5 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 **Development course** focused on full-stack development<br>
 [Pluralsight](https://www.pluralsight.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
 
-```js script
-// execute me
-document.getElementsByTagName("footer")[0].remove();
-```
+<!--document.getElementsByTagName("footer")[0].remove();-->
+
