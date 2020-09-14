@@ -1,53 +1,53 @@
 # Muhammad Iqbal
 _Software Engineer based in Lahore, Pakistan 🇵🇰_ <br>
 
-[:e-mail:](mailto:agha.muhammad.iqbal@gmail.com) / [LinkedIn](https://www.linkedin.com/in/muhammadiqbaldotnet) / [GitHub](https://github.com/aghadostain/) / [Stackoverflow](https://stackoverflow.com/users/5985558/jbs) / [Twitter](https://twitter.com/agha_dostain/) 
+[:e-mail:](mailto:agha.muhammad.iqbal@gmail.com, eMail) / [LinkedIn](https://www.linkedin.com/in/muhammadiqbaldotnet) / [GitHub](https://github.com/aghadostain/) / [Stackoverflow](https://stackoverflow.com/users/5985558/jbs) / [Twitter](https://twitter.com/agha_dostain/) 
 
 ## Professional Experience
 ---
 **Senior Software Engineer** @ [Datum Square](https://www.datumsquare.com/) / [Allshore Staffing](https://allshorevirtualstaffing.com) _(March 2020 - Present)_ <br>
 Providing engineering services to different clients.
-  - Working in a cross-functional, agile team, and strictly followed *CST time zone.*
+  - Working in a cross-functional, agile team, and strictly followed the *CST time zone.*
   - Add features and manage change requests.
-  - Conduct and participate in code review session.
+  - Conduct and participate in the code review session.
   - Participate in requirement elicitation and maturity process.
   - **_Technologies used:_** ASP.NET WEB API, ASP.NET Web Forms, jQuery, jQuery based plugins, Bootstrap, MSSQL, GIT.
 <br><br>
 
-**Full Stack Software Engineer** @ [East West Solutions](https://ewsystemsinc.com/) / [PieCyfer](https://www.piecyfer.com/) _(Jan 2019 - Feb 2020)_ <br>
+**Full-Stack Software Engineer** @ [East West Solutions](https://ewsystemsinc.com/) / [PieCyfer](https://www.piecyfer.com/) _(Jan 2019 - Feb 2020)_ <br>
 [Arcos RosterApps](https://www.arcos-inc.com/rosterapps) workforce management solution deployed over 20+ USA commercial airports.
   - Worked in a cross-functional, agile team, who were spread in different locations and time zone.
   - Added features and cleared backlogs.
   - Actively followed in-house coding standards and best practices.
   - Maintained a company-wide design system.
-  - Developed understanding of different complex business routines.
-      - Multi tenet web app with over multiple personas.
+  - Developed an understanding of different complex business routines.
+      - Multi-tenant web app with over multiple personas.
       - *100+ web pages* and multiple reports.
-      - *2K+ DBO's* having *1.4K+ SPROCS*, *50+ tables* and numerous functions, views, jobs and types.        
+      - *2K+ DBO's* having *1.4K+ SPROCS*, *50+ tables*, and numerous functions, views, jobs, and types.        
   - **_Technologies used:_** ASP.NET WEB FORMS, WCF, jQuery, SSRS, MSSQL, GIT.
 <br><br>
 
 **Software Engineer** @ [Xelleration / Speridian](https://www.speridian.com) _(Aug 2017 - Dec 2018)_ <br>
 Provided development services to [Wedgewood](https://www.wedgewood-inc.com/) multiple products.
-  - Best utilized .NET Identity Framework, EF, LINQ and DBO.
-  - Followed scrum practices and utilized CI/CD with Azure.
+  - Best utilized .NET Identity Framework, EF, and DBO.
+  - Followed Scrum practices and utilized CI/CD with Azure.
   - Managed app deployments and Azure resources.
   - Wrote unit test cases and compliances application with GDPR.
   - **_Technologies used:_** ASP.NET WEB API, ASP.NET MVC, Identity, Clean Architecture, Azure (Queue, Storage, Web Apps, Functions), Angular JS, Kendo UI, MSSQL, TFS, SPA.
 <br><br>
 
 **Software Engineer** @ [IQVIS](https://www.iqvis.com/) _(May 2016 - Aug 2017)_ <br>
-Provided engineering services to different clients projects.
-  - Produced robust application.
-  - Code compliance with MSFT standard and best practices.
+Provided engineering services to different client's projects.
+  - Produced robust applications.
+  - Code compliance with MSFT standards and best practices.
   - Minimized HTTP and DB requests for better performance.
-  - Handled change request's and performed impact analysis.
+  - Handled change requests and performed impact analysis.
   - **_Technologies used:_** ODATA WEB API, ASP.NET MVC, ASP.NET Web Forms, jQuery, jQuery plugins, MSSQL, GIT.
 <br><br>
     
 ## Tools & Techniques
 ---
-_This section include technologies used in different projects during professional career._
+_This section includes technologies used in different projects during my professional career._
 <br>
 
 **Programming Languages**
