@@ -52,7 +52,8 @@ _This section includes most recent technical projects, for detailed list of tech
 
 __Accident Intake Forms__ @ [Quintessa Marketing](http://quintessamarketing.com)
 <br><br>
-_Stack_ : ASP.NET WEB API, ASP.NET WEB FORMS, EF, ADO.NET, MSSQL, Repository/Service Pattern, jQuery, Bootstrap, GIT, JIRA.
+_Stack_ : ASP.NET WEB API, ASP.NET WEB FORMS, EF, ADO.NET, MS
+, Repository/Service Pattern, jQuery, Bootstrap, GIT, JIRA.
 <br>
 _Role_ : Senior Software Engineer
 <br>
@@ -69,7 +70,7 @@ _Responsibilities_ :
   
   __Roster Apps__ @ [ARCOS](https://www.arcos-inc.com/rosterapps/)
 <br><br>
-_Stack_ : ASP.NET WEB FORMS, ADO.NET, WCF, SQL Server 2012, Layered Architecture, jQuery, Bootstrap, QCI Framework, GIT, JIRA.
+_Stack_ : ASP.NET WEB FORMS, ADO.NET, WCF, MSSQL, Layered Architecture, jQuery, Bootstrap, QCI Framework, GIT, JIRA.
 <br>
 _Role_ : Full Stack Software Engineer
 <br>
