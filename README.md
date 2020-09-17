@@ -5,7 +5,7 @@ _Software Engineer based in Lahore, Pakistan 🇵🇰_ <br>
 <br><br>
 ## Area of Focus
 
-**Azure, .NET CORE, WEB API, Angular**
+*Azure, .NET CORE, WEB API, Angular*
 <br>
 <br>
 ## Professional Experience
