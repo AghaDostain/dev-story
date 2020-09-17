@@ -44,7 +44,28 @@ Provided engineering services to different client's projects.
   - Handled change requests and performed impact analysis.
   - **_Technologies used:_** ODATA WEB API, ASP.NET MVC, ASP.NET Web Forms, jQuery, jQuery plugins, MSSQL, GIT.
 <br><br>
-    
+
+## Recent Technical Project
+---
+_This section includes most recent technical projects, for detailed list of technical projects that I have participated in during my professional career can be found at [dev-story-projects](https://aghadostain.github.io/dev-story-projects)._
+<br>
+
+__Accident Intake Forms__ @ [Quintessa Marketing](http://quintessamarketing.com)
+<br>
+  _Stack_ : ASP.NET WEB API, ASP.NET WEB FORMS, EF, ADO.NET, MSSQL, Repository/Service Pattern, jQuery, Bootstrap, GIT, JIRA.
+  <br>
+  _Role_ : Senior Software Engineer
+  <br>
+  _Description_ : Quintessa Marketing delivers highly qualified leads for lawyers and specializes in giving personal injury law firms a competitive edge in advertising. Quintessa Marketing helps those who seek legal assistance find you, and help you turn them into clients. 
+  <br>
+  _Responsibilities_ : 
+    - Server-Side and Client-Side development.
+    - DB development and deployments.
+    - Code review for pull requests.
+    - Manage Git strategies.
+    - Participated in requirement elicitation and demoing new features.
+  <br>
+
 ## Tools & Techniques
 ---
 _This section includes technologies used in different projects during my professional career._
