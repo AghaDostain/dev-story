@@ -51,7 +51,7 @@ _This section includes most recent technical projects, for detailed list of tech
 <br>
 
 __Accident Intake Forms__ @ [Quintessa Marketing](http://quintessamarketing.com)
-<br>
+<br><br>
   _Stack_ : ASP.NET WEB API, ASP.NET WEB FORMS, EF, ADO.NET, MSSQL, Repository/Service Pattern, jQuery, Bootstrap, GIT, JIRA.
   <br>
   _Role_ : Senior Software Engineer
@@ -64,8 +64,23 @@ __Accident Intake Forms__ @ [Quintessa Marketing](http://quintessamarketing.com)
     - Code review for pull requests.
     - Manage Git strategies.
     - Participated in requirement elicitation and demoing new features.
+  <br> <br>
+  
+  __Roster Apps__ @ [ARCOS](https://www.arcos-inc.com/rosterapps/)
+<br><br>
+  _Stack_ : ASP.NET WEB API, ASP.NET WEB FORMS, EF, ADO.NET, MSSQL, Repository/Service Pattern, jQuery, Bootstrap, GIT, JIRA.
   <br>
-
+  _Role_ : Full Stack Software Engineer
+  <br>
+  _Description_ : A workforce management solution that offers superior scheduling capabilities and employee self-service. Multi-tenant website deployed over 20+ USA commercial airports.
+  <br>
+  _Responsibilities_ : 
+      + Server-Side and Client-Side development.
+      + DB development and deployments.
+      + Follow Git strategies, in-house design system and coding standerds.
+      + Working closely with the on-shore teams.
+  <br><br>
+  
 ## Tools & Techniques
 ---
 _This section includes technologies used in different projects during my professional career._
