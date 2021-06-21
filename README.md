@@ -10,7 +10,13 @@ _Software Engineer based in Lahore, Pakistan 🇵🇰_ <br>
 <br>
 ## Professional Experience
 ---
-**Senior Software Engineer** @ [Datum Square](https://www.datumsquare.com/) / [Allshore Staffing](https://allshorevirtualstaffing.com) _(March 2020 - Present)_ <br>
+**Senior Software Engineer** @ [Folio3](https://www.folio3.com/) _(Dec 2020 - Present)_ <br>
+Providing engineering services under Animal Care division.
+  - Add features, bug fixes in production and manage change requests.
+  - **_Technologies used:_** ASP.NET WEB API, ASP.NET MVC, KendoUI, jQuery, Bootstrap, MSSQL, GIT, TFS, Angular, React.
+<br><br>
+
+**Senior Software Engineer** @ [Datum Square](https://www.datumsquare.com/) / [Allshore Staffing](https://allshorevirtualstaffing.com) _(March 2020 - Dec 2020)_ <br>
 Providing engineering services to different clients.
   - Working in a cross-functional, agile team, and strictly followed the *CST time zone.*
   - Add features and manage change requests.
