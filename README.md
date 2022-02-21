@@ -1,7 +1,7 @@
 # Muhammad Iqbal
 _Software Engineer based in Lahore, Pakistan 🇵🇰_ <br>
 
-[Mail](mailto:agha.muhammad.iqbal@gmail.com) / [LinkedIn](https://www.linkedin.com/in/muhammadiqbaldotnet) / [GitHub](https://github.com/aghadostain/) / [Stackoverflow](https://stackoverflow.com/users/5985558/jbs) / [Twitter](https://twitter.com/agha_dostain/) 
+[Mail](mailto:agha.muhammad.iqbal@gmail.com) / [LinkedIn](https://www.linkedin.com/in/muhammadiqbaldotnet) / [GitHub](https://github.com/aghadostain/) / [Stackoverflow](https://stackoverflow.com/users/5985558/jbs) / [Twitter](https://twitter.com/agha_dostain/) / [Telephone](tel:+923124188800)
 <br><br>
 ## Area of Focus
 
@@ -11,7 +11,7 @@ _Software Engineer based in Lahore, Pakistan 🇵🇰_ <br>
 ## Professional Experience
 ---
 **Senior Software Engineer** @ [Folio3](https://www.folio3.com/) _(Dec 2020 - Present)_ <br>
-Providing engineering services under Animal Care division.
+Providing engineering services under the Animal Care division.
   - Add features, bug fixes in production and manage change requests.
   - **_Technologies used:_** ASP.NET WEB API, ASP.NET MVC, KendoUI, jQuery, Bootstrap, MSSQL, GIT, TFS, Angular, React.
 <br><br>
@@ -22,7 +22,7 @@ Providing engineering services to different clients.
   - Add features and manage change requests.
   - Conduct and participate in the code review session.
   - Participate in requirement elicitation and maturity process.
-  - **_Technologies used:_** ASP.NET WEB API, ASP.NET Web Forms, jQuery, jQuery based plugins, Bootstrap, MSSQL, GIT.
+  - **_Technologies used:_** ASP.NET WEB API, ASP.NET Web Forms, jQuery, jQuery-based plugins, Bootstrap, MSSQL, GIT.
 <br><br>
 
 **Full-Stack Software Engineer** @ [East West Solutions](https://ewsystemsinc.com/) / [PieCyfer](https://www.piecyfer.com/) _(Jan 2019 - Feb 2020)_ <br>
@@ -43,7 +43,7 @@ Provided development services to [Wedgewood](https://www.wedgewood-inc.com/) mul
   - Best utilized .NET Identity Framework, EF, and DBO.
   - Followed Scrum practices and utilized CI/CD with Azure.
   - Managed app deployments and Azure resources.
-  - Wrote unit test cases and compliances application with GDPR.
+  - Wrote unit test cases and compliances applications with GDPR.
   - **_Technologies used:_** ASP.NET WEB API, ASP.NET MVC, Identity, Clean Architecture, Azure (Queue, Storage, Web Apps, Functions), Angular JS, Kendo UI, MSSQL, TFS, SPA.
 <br><br>
 
@@ -58,7 +58,7 @@ Provided engineering services to different client's projects.
 
 ## Recent Technical Project
 ---
-_This section includes most recent technical projects, for detailed list of technical projects that I have participated in during my professional career can be found at [dev-story-projects](https://aghadostain.github.io/dev-story-projects)._
+_This section includes the most recent technical projects, for a detailed list of technical projects that I have participated in during my professional career can be found at [dev-story-projects](https://aghadostain.github.io/dev-story-projects)._
 <br>
 
 __Accident Intake Forms__ @ [Quintessa Marketing](http://quintessamarketing.com)
@@ -112,7 +112,7 @@ _This section includes technologies used in different projects during my profess
   - N-Tier Architectures, ONION Architecture.
   - Strategy Design Pattern, SOLID Principles.  
   - Angular, Angular JS, Gulp, Bower, Express.js, Jasmine, Node.js. 
-  - Kendo UI, jQuery, jQuery-UI, jQuery based plugins, AJAX.
+  - Kendo UI, jQuery, jQuery-UI, jQuery-based plugins, AJAX.
   - MSSQL, MONGO DB.
 
 **Development Tools**
