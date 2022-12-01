@@ -10,7 +10,13 @@ _Software Engineer based in Lahore, Pakistan 🇵🇰_ <br>
 <br>
 ## Professional Experience
 ---
-**Senior Software Engineer** @ [Folio3](https://www.folio3.com/) _(Dec 2020 - Present)_ <br>
+**Lead Software Engineer** @ [Folio3](https://www.folio3.com/) _(Aug 2022 - Present)_ <br>
+Providing engineering services under the Animal Care division.
+ - Add features, bug fixes in production and manage change requests.
+ - **_Technologies used:_** ASP.NET WEB API, ASP.NET MVC, KendoUI, jQuery, Bootstrap, MSSQL, GIT, TFS, Angular, React.
+ <br><br>
+ 
+**Senior Software Engineer** @ [Folio3](https://www.folio3.com/) _(Dec 2020 - Aug 2022)_ <br>
 Providing engineering services under the Animal Care division.
   - Add features, bug fixes in production and manage change requests.
   - **_Technologies used:_** ASP.NET WEB API, ASP.NET MVC, KendoUI, jQuery, Bootstrap, MSSQL, GIT, TFS, Angular, React.
